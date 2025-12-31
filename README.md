@@ -40,6 +40,15 @@
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
+## 📫 How to Reach Me
+
+I’m always open to learning opportunities, collaborations, and constructive discussions. If you’d like to connect with me or talk about technology, projects, or ideas, feel free to reach out through any of the platforms below.
+
+- 📧 **Email:** tasnim.obyda@gmail.com  
+- 💼 **GitHub:** https://github.com/ObydaTasnim  
+- 🌐 **LinkedIn:** https://www.linkedin.com/in/obyda-tasnim  
+
+
 ###
 
 <picture>
