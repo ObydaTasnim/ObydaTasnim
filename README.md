@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=900&center=true&vCenter=true&width=650&lines=Hi,+I'm+Obyda+Tasnim;Computer+Science+Student;Web+Developer;Always+Learning"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=900&center=true&vCenter=true&width=650&lines=Hello+There,+I'm+Obyda+Tasnim;Computer+Science+Student;Web+Developer;Web+Designer;Always+Learning+New+Things;Oneday+I+will+make+it"
   />
 </p>
 
