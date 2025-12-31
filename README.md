@@ -4,6 +4,11 @@
   />
 </p>
 
+## 🧑‍💻 About Me
+
+Hello! I'm **Obyda Tasnim**, a Computer Science student with a strong interest in building practical and meaningful software solutions. I enjoy exploring how technology works behind the scenes and applying that knowledge to real-world problems. My learning journey focuses on writing clean code, understanding system behavior, and continuously improving my problem-solving skills.
+
+I am especially interested in web development and modern technologies, where I get to combine logic with creativity. Alongside my academic work, I actively experiment with new tools and frameworks to sharpen my skills and stay updated with current trends in the tech world. I believe consistency, curiosity, and hands-on practice are the keys to becoming a better developer every day.
 
 
 ###
