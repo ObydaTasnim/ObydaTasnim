@@ -96,7 +96,19 @@ I’m always open to learning opportunities, collaborations, and constructive di
 </p>
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ObydaTasnim&theme=react" />
+</p>
+
+---
+
+### 📊 Detailed Activity Graph
+
+[![Obyda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ObydaTasnim&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 ###
 ### 🎮 Contribution Pacman Game - Watch it Eat My Contributions!
 <picture>
@@ -104,4 +116,5 @@ I’m always open to learning opportunities, collaborations, and constructive di
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ObydaTasnim/ObydaTasnim/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ObydaTasnim/ObydaTasnim/output/pacman-contribution-graph.svg">
 </picture>
+
 
