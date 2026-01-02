@@ -4,6 +4,8 @@
   />
 </p>
 
+---
+
 ## 👨‍💻 About Me
 
 I am a passionate Frontend Web Developer who enjoys building clean, responsive, and user-friendly web applications.  
@@ -72,7 +74,7 @@ Currently, I am focusing on writing scalable code and exploring new web technolo
 
 ---
 
-## 💡 Projects
+
 
 
 ## 📫 Let's Connect Through
@@ -117,4 +119,5 @@ I’m always open to learning opportunities, collaborations, and constructive di
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ObydaTasnim/ObydaTasnim/output/pacman-contribution-graph.svg">
 </picture>
 
+---
 
