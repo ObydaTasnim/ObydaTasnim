@@ -4,65 +4,71 @@
   />
 </p>
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-Hello! I'm **Obyda Tasnim**, a Computer Science student with a strong interest in building practical and meaningful software solutions. I enjoy exploring how technology works behind the scenes and applying that knowledge to real-world problems. My learning journey focuses on writing clean code, understanding system behavior, and continuously improving my problem-solving skills.
-
-I am especially interested in web development and modern technologies, where I get to combine logic with creativity. Alongside my academic work, I actively experiment with new tools and frameworks to sharpen my skills and stay updated with current trends in the tech world. I believe consistency, curiosity, and hands-on practice are the keys to becoming a better developer every day.
+I am a passionate Frontend Web Developer who enjoys building clean, responsive, and user-friendly web applications.  
+I love learning modern JavaScript frameworks and continuously improving my problem-solving skills.  
+Currently, I am focusing on writing scalable code and exploring new web technologies.
 
 ---
 
+## 🚀 Current Activities
+
+- 🌱 I am exploring **Next.js** and modern React patterns  
+- 🏗️ I’m working on a commercial websites
+- 📘 Improving my knowledge of **JavaScript and frontend architecture**  
+- 🛠️ Practicing real-world projects to strengthen my development skills  
+
+---
 ###
 
 ## 🛠️ Tech Stack & Skills
-<div align="center">
+
+### 🎨 Frontend Development
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5" />
   <img width="12" />
-
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3" />
   <img width="12" />
-
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
   <img width="12" />
-
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="React.js" />
   <img width="12" />
-
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" />
   <img width="12" />
-
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS" />
-  <img width="12" />
+</p>
 
+---
+
+### ⚙️ Backend Development
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />
   <img width="12" />
-
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB" />
   <img width="12" />
-
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="Firebase" />
+</p>
 
+---
+
+### 🚀 Tools & Deployment
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
   <img width="12" />
-
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" />
   <img width="12" />
-
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code" />
   <img width="12" />
-
   <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="Netlify" />
   <img width="12" />
-
   <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="Vercel" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/render.svg" height="60" alt="Render" />
-  <img width="12" />
+</p>
 
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="Figma" />
-</div>
 
 ---
 
