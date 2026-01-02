@@ -28,47 +28,33 @@ Currently, I am focusing on writing scalable code and exploring new web technolo
 
 ### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
 </p>
 
----
 
 ### ⚙️ Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="Firebase" />
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
----
+
 
 ### 🚀 Tools & Deployment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="Netlify" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="Vercel" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/render.svg" height="60" alt="Render" />
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
 </p>
 
 
@@ -77,27 +63,6 @@ Currently, I am focusing on writing scalable code and exploring new web technolo
 
 
 
-## 📫 Let's Connect Through
-
-<p align="center">
-I’m always open to learning opportunities, collaborations, and constructive discussions. If you’d like to connect with me or talk about technology, projects, or ideas, feel free to reach out through any of the platforms below.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/obyda-tasnim">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://github.com/ObydaTasnim">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="mailto:tasnim.obyda@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -121,3 +86,29 @@ I’m always open to learning opportunities, collaborations, and constructive di
 
 ---
 
+## 📫 Let's Connect Through
+
+<p align="center">
+I’m always open to learning opportunities, collaborations, and constructive discussions. If you’d like to connect with me or talk about technology, projects, or ideas, feel free to reach out through any of the platforms below.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/obyda-tasnim">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <span>&nbsp;&nbsp;</span>
+  <a href="https://github.com/ObydaTasnim">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <span>&nbsp;&nbsp;</span>
+  <a href="mailto:tasnim.obyda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFAA&width=900&lines=⭐+Thank+you+for+visiting+my+GitHub+profile!">
+</p>
