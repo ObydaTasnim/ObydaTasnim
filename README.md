@@ -66,8 +66,9 @@ Currently, I am focusing on writing scalable code and exploring new web technolo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ObydaTasnim&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ObydaTasnim&show_icons=true&theme=react&hide_border=true" />
 </p>
+
 
 
 ---
