@@ -66,7 +66,11 @@ Currently, I am focusing on writing scalable code and exploring new web technolo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ObydaTasnim/ObydaTasnim/master/generated/overview.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ObydaTasnim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="ObydaTasnim's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ObydaTasnim&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&dates=FFFFFF" alt="ObydaTasnim's GitHub Streak" />
 </p>
 
 
