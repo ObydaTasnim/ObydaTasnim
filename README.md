@@ -66,8 +66,9 @@ Currently, I am focusing on writing scalable code and exploring new web technolo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ObydaTasnim" />
+  <img src="https://raw.githubusercontent.com/ObydaTasnim/ObydaTasnim/master/generated/overview.svg" />
 </p>
+
 
 
 ---
